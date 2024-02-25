@@ -1,0 +1,193 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:outbreak.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": ["\uD7FC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:jabki_babki.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["\uD7FD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:gusenitsa.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["\uD7FE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:__.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["\uD7FF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:comedia.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀁"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:confusedcat.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀂"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:dnoclassnicky.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀃"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:drool1.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀄"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:druk.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀅"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:gop11.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": ["𐀀"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:jabkibox.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀆"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:klass.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["𐀇"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:kloun.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["𐀈"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:laugh.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀉"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:noway.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀊"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:oi.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀋"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:owl1.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀍"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:pumpkin_angry.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀎"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:pumpkin_confounded.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀏"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:pumpkin_flushed.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀐"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:slab.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": ["𐀑"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:smile1.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["𐀒"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:rimgro_games.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["𐀓"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:shityourself.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["𐀔"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:smile2.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["𐀕"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:sovavidafeelin.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": ["𐀖"]
+    },
+    {
+      "type": "bitmap",
+      "file": "outbreakicons:yes.png",
+      "ascent": 9,
+      "height": 12,
+      "chars": ["𐀗"]
+    }
+  ]
+}

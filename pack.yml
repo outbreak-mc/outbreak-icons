@@ -1,0 +1,9 @@
+name: "outbreak-icons"
+pack-format: "1.20"
+description: |-
+  Набор текстовых иконок <white>퟽</white>
+  v%version% by %outbreak%
+placeholders:
+  version: 1.0
+  outbreak: <gradient:#f6895a:#fff16b>ᴏᴜᴛʙʀᴇᴀᴋ</gradient>
+  modpack: <gradient:#e0712c:#558428>SkyHigh</gradient>
